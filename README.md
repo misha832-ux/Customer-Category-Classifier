@@ -127,24 +127,6 @@ tensorflow
 scipy
 ```
 
-> A `requirements.txt` file should be added to the repository. You can generate one from your environment with:
-> ```bash
-> pip freeze > requirements.txt
-> ```
-
----
-
-## Project Structure
-
-```
-Customer-Catagory-Classifier/
-│
-├── Group_F.ipynb                          # Main Jupyter Notebook
-├── Customer_Category_Classifier_Dataset.csv  # Dataset (add this to repo or link source)
-├── requirements.txt                       # Dependencies
-└── README.md                              # Project documentation
-```
-
 ---
 
 ## Results
