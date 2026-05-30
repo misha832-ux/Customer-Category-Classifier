@@ -148,5 +148,3 @@ Each segmentation label (B, C, D) was evaluated separately as a binary classific
 This project is open for academic and educational use. Feel free to fork and build upon it.
 
 ---
-
-*Developed by Group F*
