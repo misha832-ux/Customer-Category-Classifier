@@ -1,5 +1,8 @@
 # Customer Category Classifier
 
+[![Open in nbviewer](https://img.shields.io/badge/View-nbviewer-orange)](https://nbviewer.org/github/misha832-ux/Customer-Category-Classifier/blob/main/Group_F.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/misha832-ux/Customer-Category-Classifier/blob/main/Group_F.ipynb)
+
 A machine learning project that classifies customers into four segments (A, B, C, D) based on demographic data. Three models — K-Nearest Neighbors, Logistic Regression, and a Neural Network — are trained and compared to find the best classifier.
 
 ---
@@ -90,12 +93,11 @@ Go to the repository page on GitHub → click the green **Code** button → sele
 
 ### Option 3 — Open in Google Colab (Recommended)
 
-Since the notebook was built in Google Colab, the easiest way to run it is:
+Click the badge below to open the notebook directly in Google Colab:
 
-1. Go to [https://colab.research.google.com](https://colab.research.google.com)
-2. Click **File → Open notebook → GitHub**
-3. Paste the repo URL: `https://github.com/misha832-ux/Customer-Catagory-Classifier`
-4. Upload the dataset file to Colab's `/content/sample_data/` directory, or update the file path in the notebook
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/misha832-ux/Customer-Category-Classifier/blob/main/Group_F.ipynb)
+
+Upload the dataset to Colab's `/content/sample_data/` directory, or update the file path in the notebook.
 
 ### Running Locally
 
